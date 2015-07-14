@@ -1,0 +1,10 @@
+!SESSION 2015-07-14 16:14:33.319 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.8.0_31
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -application sharpen.core.application -header C:\Users\Paul\workspace\MathStepper\header.txt sharpened/src @sharpen-all-options
+Command-line arguments:  -data C:\Users\Paul\workspace\MathStepper\sharpen -application sharpen.core.application -header C:\Users\Paul\workspace\MathStepper\header.txt sharpened/src @sharpen-all-options
+
+!ENTRY org.eclipse.core.resources 2 10035 2015-07-14 16:14:49.783
+!MESSAGE The workspace will exit with unsaved changes in this session.

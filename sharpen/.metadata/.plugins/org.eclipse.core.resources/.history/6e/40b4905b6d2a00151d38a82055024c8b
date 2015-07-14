@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/MathExpression/AtomicNode.cs=utf-8
+encoding//src/MathExpression/Expression.cs=utf-8
+encoding//src/MathExpression/ExpressionParseException.cs=utf-8
+encoding//src/MathExpression/ExpressionTree.cs=utf-8
+encoding//src/MathExpression/FuncMap.cs=utf-8
+encoding//src/MathExpression/FuncNode.cs=utf-8
+encoding//src/MathExpression/Function.cs=utf-8
+encoding//src/MathExpression/Lexeme.cs=utf-8
